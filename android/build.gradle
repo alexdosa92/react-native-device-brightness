@@ -16,4 +16,5 @@ android {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
+    implementation 'androidx.core:core:1.6.0'
 }
